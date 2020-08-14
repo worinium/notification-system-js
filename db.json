@@ -1,0 +1,263 @@
+{
+  "messages": [
+    {
+      "subject": "Samuel Data",
+      "message": "Great",
+      "timesent": "2020-07-07T19:45:46.708Z",
+      "status": "unread",
+      "important": false,
+      "id": 6,
+      "_showDetails": false
+    },
+    {
+      "subject": "Master KG DATA",
+      "message": "Worisoft",
+      "timesent": "2020-07-08T08:11:10.290Z",
+      "status": "read",
+      "important": false,
+      "id": 7
+    },
+    {
+      "subject": "Master KG",
+      "message": "eewe",
+      "timesent": "2020-07-08T08:41:08.161Z",
+      "status": "read",
+      "important": false,
+      "id": 9
+    },
+    {
+      "subject": "Mr Hearty",
+      "message": "Engineering Development",
+      "timesent": "2020-07-08T14:42:13.711Z",
+      "status": "read",
+      "important": false,
+      "id": 13
+    },
+    {
+      "subject": "xzjhhjcxd",
+      "message": "dsdsa",
+      "timesent": "2020-07-08T19:07:55.147Z",
+      "status": "read",
+      "important": false,
+      "id": 18
+    },
+    {
+      "subject": "ddfds",
+      "message": "fdgfd",
+      "timesent": "2020-07-08T19:07:55.147Z",
+      "status": "read",
+      "important": false,
+      "id": 19
+    },
+    {
+      "subject": "Master Data",
+      "message": "9988",
+      "timesent": "2020-07-08T19:07:55.147Z",
+      "status": "read",
+      "important": false,
+      "id": 20
+    },
+    {
+      "subject": "fgdf",
+      "message": "dfdgf",
+      "timesent": "2020-07-08T19:07:55.147Z",
+      "status": "read",
+      "important": false,
+      "id": 21
+    },
+    {
+      "subject": "gfxhgfv",
+      "message": "tyyukghj",
+      "timesent": "2020-07-08T19:23:24.631Z",
+      "status": "read",
+      "important": false,
+      "id": 23
+    },
+    {
+      "subject": "Manager Worker",
+      "message": "Systematic FIle",
+      "timesent": "2020-07-08T19:50:46.666Z",
+      "status": "read",
+      "important": false,
+      "id": 24
+    },
+    {
+      "subject": "master data am",
+      "message": "dfdkjjfdgjfdhdsfj",
+      "timesent": "2020-07-08T20:08:36.516Z",
+      "status": "read",
+      "important": false,
+      "id": 25
+    },
+    {
+      "subject": "67887",
+      "message": "77887887",
+      "timesent": "2020-07-08T20:48:14.213Z",
+      "status": "read",
+      "important": false,
+      "id": 27
+    },
+    {
+      "subject": "elsie",
+      "message": "mahli",
+      "timesent": "2020-07-08T21:05:51.343Z",
+      "status": "read",
+      "important": false,
+      "id": 30
+    },
+    {
+      "subject": "sadsasa",
+      "message": "sasddsdsa",
+      "timesent": "2020-07-08T22:56:20.688Z",
+      "status": "read",
+      "important": false,
+      "id": 40
+    },
+    {
+      "subject": "My Book ",
+      "message": "Enjoy the boyhood club",
+      "timesent": "2020-07-08T23:13:24.126Z",
+      "status": "read",
+      "important": false,
+      "id": 41
+    },
+    {
+      "subject": "Great Vision",
+      "message": "Master KG File",
+      "timesent": "2020-07-08T23:13:24.126Z",
+      "status": "read",
+      "important": false,
+      "id": 42
+    },
+    {
+      "subject": "CLL Test Proj",
+      "message": "Boss Adetayor",
+      "timesent": "2020-07-08T23:13:24.126Z",
+      "status": "read",
+      "important": false,
+      "id": 43
+    },
+    {
+      "subject": "Digitalization Team",
+      "message": "We learn today lead tomorrow",
+      "timesent": "2020-07-08T23:13:24.126Z",
+      "status": "read",
+      "important": false,
+      "id": 44
+    },
+    {
+      "subject": "My Book ",
+      "message": "Enjoy the boyhood club",
+      "timesent": "2020-07-08T23:13:24.126Z",
+      "status": "read",
+      "important": false,
+      "id": 45
+    },
+    {
+      "subject": "Great Vision",
+      "message": "Master KG File",
+      "timesent": "2020-07-08T23:13:24.126Z",
+      "status": "read",
+      "important": false,
+      "id": 46
+    },
+    {
+      "subject": "CLL Test Proj",
+      "message": "Boss Adetayor",
+      "timesent": "2020-07-08T23:13:24.126Z",
+      "status": "unread",
+      "important": false,
+      "id": 47
+    },
+    {
+      "subject": "Digitalization Team",
+      "message": "We learn today lead tomorrow",
+      "timesent": "2020-07-08T23:13:24.126Z",
+      "status": "unread",
+      "important": false,
+      "id": 48
+    },
+    {
+      "subject": "My Book ",
+      "message": "Enjoy the boyhood club",
+      "timesent": "2020-07-08T23:13:24.126Z",
+      "status": "unread",
+      "important": true,
+      "id": 49
+    },
+    {
+      "subject": "Great Vision",
+      "message": "Master KG File",
+      "timesent": "2020-07-08T23:13:24.126Z",
+      "status": "unread",
+      "important": true,
+      "id": 50
+    },
+    {
+      "subject": "CLL Test Proj",
+      "message": "Boss Adetayor",
+      "timesent": "2020-07-08T23:13:24.126Z",
+      "status": "unread",
+      "important": true,
+      "id": 51
+    },
+    {
+      "subject": "Digitalization Team",
+      "message": "We learn today lead tomorrow",
+      "timesent": "2020-07-08T23:13:24.126Z",
+      "status": "unread",
+      "important": true,
+      "id": 52
+    },
+    {
+      "subject": "My Book ",
+      "message": "Enjoy the boyhood club",
+      "timesent": "2020-07-08T23:13:24.126Z",
+      "status": "unread",
+      "important": true,
+      "id": 53
+    },
+    {
+      "subject": "Glory of All Lands",
+      "message": "When the matter is tough guys have to run and run",
+      "timesent": "2020-07-22T14:26:38.908Z",
+      "status": "unread",
+      "important": true,
+      "id": 54,
+      "_showDetails": false
+    },
+    {
+      "subject": "Master KG",
+      "message": "Interpolation",
+      "timesent": "2020-07-22T15:29:59.594Z",
+      "status": "unread",
+      "important": true,
+      "id": 55
+    },
+    {
+      "subject": "Test Demo",
+      "message": "Lorium sample forms another sample",
+      "timesent": "2020-07-23T12:42:31.618Z",
+      "status": "unread",
+      "important": true,
+      "id": 56
+    },
+    {
+      "subject": "Test Defense",
+      "message": "Testing",
+      "timesent": "2020-07-23T13:21:55.270Z",
+      "status": "read",
+      "important": true,
+      "id": 57
+    },
+    {
+      "subject": "Test Defense",
+      "message": "Engineer",
+      "timesent": "2020-07-23T14:38:22.798Z",
+      "status": "unread",
+      "important": false,
+      "id": 58,
+      "_showDetails": false
+    }
+  ]
+}
